@@ -76,6 +76,13 @@ Department of Electrical Engineering
 
 ---
 
+## 📊 GitHub Stats & Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdalrahmanTaha&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanTaha&layout=compact&theme=radical)
+
+---
+
 ## 🎯 Career Objective
 
 Aspiring **Digital Design & Verification Engineer**, eager to join a team where I can apply RTL design skills and UVM-based verification methodologies. Looking to contribute to real-world SoC and IP development.
